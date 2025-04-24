@@ -16,13 +16,13 @@ The analysis covers an 8-month period from July 2024 to March 2025 and includes 
 - The bottleneck suggests inefficiencies in dispatch, truck availability, or routing workflows.
 
 ### March 2025 Anomaly
-- Over 341,000 orders were logged in March—14x higher than the monthly average.  
+- Over 341,000 orders were logged in March; 14x higher than the monthly average.  
 - Revenue spiked to GHS 1.54 billion, up from GHS 134 million/month average.  
 - This raises concerns of either a legitimate operational spike or data inflation.
 
 ### Client Distribution & Data Gaps
 - A handful of clients dominated order volume.  
-- The top "client" had no identifiable ID—flagging poor data integrity.  
+- The top "client" had no identifiable ID, flagging poor data integrity.  
 - Clean client data is essential for forecasting and performance monitoring.
 
 ---

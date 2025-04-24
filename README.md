@@ -1,4 +1,3 @@
-# E-commerce-Order-Distribution-Optimization-
 # Affinity Labs E-commerce Order Distribution Optimization
 
 ## Overview

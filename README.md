@@ -69,6 +69,7 @@ These strategies aim to sustainably expand capacity, improve operational efficie
 
 ## Author
 
-Samuel Lartey  
-Data Analyst
+**Samuel Lartey**  
+Data Analyst  
 April 2025
+
